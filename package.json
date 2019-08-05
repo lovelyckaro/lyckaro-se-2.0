@@ -1,0 +1,22 @@
+{
+  "name": "lyckaro-se-2.0",
+  "version": "1.0.0",
+  "description": "New lyckaro.se",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lovelyckaro/lyckaro-se.git"
+  },
+  "author": "Love Lyckaro <love.lyckaro@hotmail.se> (https://lyckaro.se)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lovelyckaro/lyckaro-se/issues"
+  },
+  "homepage": "https://github.com/lovelyckaro/lyckaro-se#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
